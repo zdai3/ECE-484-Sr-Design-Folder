@@ -1,0 +1,20 @@
+C:\Users\36905\source\repos\484 Senior Design\484 Senior Design\bin\Debug\484 Senior Design.exe.config
+C:\Users\36905\source\repos\484 Senior Design\484 Senior Design\bin\Debug\484 Senior Design.exe
+C:\Users\36905\source\repos\484 Senior Design\484 Senior Design\bin\Debug\484 Senior Design.pdb
+C:\Users\36905\source\repos\484 Senior Design\484 Senior Design\obj\Debug\484 Senior Design.csprojAssemblyReference.cache
+C:\Users\36905\source\repos\484 Senior Design\484 Senior Design\obj\Debug\_484_Senior_Design.Inspector.resources
+C:\Users\36905\source\repos\484 Senior Design\484 Senior Design\obj\Debug\_484_Senior_Design.Properties.Resources.resources
+C:\Users\36905\source\repos\484 Senior Design\484 Senior Design\obj\Debug\484 Senior Design.csproj.GenerateResource.cache
+C:\Users\36905\source\repos\484 Senior Design\484 Senior Design\obj\Debug\484 Senior Design.csproj.CoreCompileInputs.cache
+C:\Users\36905\source\repos\484 Senior Design\484 Senior Design\obj\Debug\484 Senior Design.exe
+C:\Users\36905\source\repos\484 Senior Design\484 Senior Design\obj\Debug\484 Senior Design.pdb
+C:\Users\36905\Desktop\484 Senior Design\484 Senior Design\bin\Debug\484 Senior Design.exe.config
+C:\Users\36905\Desktop\484 Senior Design\484 Senior Design\bin\Debug\484 Senior Design.exe
+C:\Users\36905\Desktop\484 Senior Design\484 Senior Design\bin\Debug\484 Senior Design.pdb
+C:\Users\36905\Desktop\484 Senior Design\484 Senior Design\obj\Debug\484 Senior Design.csprojAssemblyReference.cache
+C:\Users\36905\Desktop\484 Senior Design\484 Senior Design\obj\Debug\_484_Senior_Design.Inspector.resources
+C:\Users\36905\Desktop\484 Senior Design\484 Senior Design\obj\Debug\_484_Senior_Design.Properties.Resources.resources
+C:\Users\36905\Desktop\484 Senior Design\484 Senior Design\obj\Debug\484 Senior Design.csproj.GenerateResource.cache
+C:\Users\36905\Desktop\484 Senior Design\484 Senior Design\obj\Debug\484 Senior Design.csproj.CoreCompileInputs.cache
+C:\Users\36905\Desktop\484 Senior Design\484 Senior Design\obj\Debug\484 Senior Design.exe
+C:\Users\36905\Desktop\484 Senior Design\484 Senior Design\obj\Debug\484 Senior Design.pdb
